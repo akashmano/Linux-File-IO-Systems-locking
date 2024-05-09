@@ -17,7 +17,7 @@ Write the C Program using Linux IO Systems locking
 
 Execute the C Program for the desired output. 
 ## NAME : AKASH M
-## RED NO:212223240003
+## REG NO:212223240003
 # PROGRAM:
 
 ## 1.To Write a C program that illustrates files copying 
